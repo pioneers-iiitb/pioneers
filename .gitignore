@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite*
+private/
+.DS_Store
+__pycache__/
